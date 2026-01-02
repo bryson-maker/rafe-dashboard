@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kw001",
+    "clientId": "rec001",
+    "keyword": "electrician austin tx",
+    "searchVolume": 2400,
+    "difficulty": 45,
+    "status": "Approved",
+    "assignedPage": "/services/residential"
+  },
+  {
+    "id": "kw002",
+    "clientId": "rec001",
+    "keyword": "electrical repair austin",
+    "searchVolume": 1200,
+    "difficulty": 38,
+    "status": "Approved",
+    "assignedPage": "/services/repair"
+  },
+  {
+    "id": "kw003",
+    "clientId": "rec001",
+    "keyword": "emergency electrician near me",
+    "searchVolume": 3200,
+    "difficulty": 52,
+    "status": "Pending",
+    "assignedPage": null
+  },
+  {
+    "id": "kw004",
+    "clientId": "rec002",
+    "keyword": "plumber dallas tx",
+    "searchVolume": 2800,
+    "difficulty": 48,
+    "status": "Approved",
+    "assignedPage": "/services"
+  },
+  {
+    "id": "kw005",
+    "clientId": "rec002",
+    "keyword": "emergency plumbing dallas",
+    "searchVolume": 1500,
+    "difficulty": 42,
+    "status": "Approved",
+    "assignedPage": "/emergency"
+  },
+  {
+    "id": "kw006",
+    "clientId": "rec003",
+    "keyword": "hvac houston",
+    "searchVolume": 3500,
+    "difficulty": 55,
+    "status": "Pending",
+    "assignedPage": null
+  },
+  {
+    "id": "kw007",
+    "clientId": "rec004",
+    "keyword": "electrician san antonio",
+    "searchVolume": 1800,
+    "difficulty": 40,
+    "status": "Completed",
+    "assignedPage": "/services"
+  },
+  {
+    "id": "kw008",
+    "clientId": "rec005",
+    "keyword": "roofing fort worth",
+    "searchVolume": 2100,
+    "difficulty": 47,
+    "status": "Completed",
+    "assignedPage": "/services/roofing"
+  }
+]
