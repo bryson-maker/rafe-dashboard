@@ -40,3 +40,10 @@ next-env.d.ts
 
 # Misc
 *.log
+
+# Claude Code
+.claude/
+
+# Lock files (using pnpm)
+package-lock.json
+yarn.lock
