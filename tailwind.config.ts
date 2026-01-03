@@ -9,6 +9,10 @@ const config: Config = {
   ],
   theme: {
   	extend: {
+  		borderColor: {
+  			DEFAULT: 'hsl(var(--border))',
+  			border: 'hsl(var(--border))',
+  		},
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
